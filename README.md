@@ -1,6 +1,6 @@
 # 🏘️ LocalLoop — Community Exchange Platform v2.0
 
-A full-stack MERN platform for borrowing items, offering services, and building community trust — secured by deposits, AI dispute resolution, and a trust score system.
+A full-stack  platform for borrowing items, offering services, and building community trust — secured by deposits, AI dispute resolution, and a trust score system.
 
 > **GitHub:** github.com/RajputSivam/LocalLoop-Community-Exchange-Platform
 
@@ -25,7 +25,7 @@ A full-stack MERN platform for borrowing items, offering services, and building 
 
 ## 🛠️ Tech Stack
 
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs, Multer, Stripe
+**Backend:** Node.js, Express.js, MYSQL, JWT, bcryptjs, Multer, Stripe
 
 **Frontend:** React 18, React Router v6, Axios, React Toastify, Stripe.js
 
